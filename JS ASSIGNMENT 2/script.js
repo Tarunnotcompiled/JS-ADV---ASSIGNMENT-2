@@ -1,4 +1,4 @@
-const API_KEY="9257fcd585c62e0d50b0906898e4b24a"
+const API_KEY="0133cc5316757ac730cc46ae342334e4"
 
 const form=document.querySelector('#form')
 const city = document.querySelector('#city')   // ✅ added
