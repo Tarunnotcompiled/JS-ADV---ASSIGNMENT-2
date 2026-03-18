@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 30px;
-    background: linear-gradient(135deg, #3416b7e3, #a5cbaa);
+    background: linear-gradient(135deg, #d4fc79, #96e6a1);
     min-height: 100vh;
 }
 
 h2, h3 {
-    color: #ffffff;
+    color: #2d6a4f;
 }
 
 form {
@@ -25,7 +25,7 @@ input {
 
 button {
     padding: 10px 15px;
-    background-color: #3b12a4;
+    background-color: #52b788;
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-    background-color: #159ea5;
+    background-color: #40916c;
 }
 
 .info {
@@ -47,6 +47,6 @@ button:hover {
 
 .historyBtn button {
     margin: 5px;
-    background-color: #afadaf;
-    color: #13081a;
+    background-color: #74c69d;
+    color: #1b4332;
 }
